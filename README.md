@@ -91,11 +91,12 @@ The analysis covers multiple aspects of digital marketing campaigns, including i
 
 ---
 
-#Insights
+## Insights
 - Highest conversions occur on **Tuesdays** and around **7 AM**.  
 - **Google** has the highest number of impressions and conversions but higher CPA.  
 - **Twitter** has lower spend and CPA but fewer conversions.  
 - Age group **25-34** is the most responsive, while gender distribution is fairly balanced.  
 - Conversion rate across platforms is generally consistent (~31%).  
+
 
 
